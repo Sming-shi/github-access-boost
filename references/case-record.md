@@ -11,7 +11,7 @@
 3. **安装包**：`Steam++_v3.3.0_win_x64_aot.exe`，45,543,888 字节（43.4 MB），AOT 版。
 4. **下载通道**：GitHub 直连不畅，改用 `gh-proxy.com` 镜像，速度与官方一致。
 5. **官方 SHA256**：`4907c9cd6596456c4bad01269375bfd2b65d09195b39af637a3545b3c5e780fc`，镜像下载文件实测哈希完全一致 —— 确认未被掉包。
-6. **落地**：文件放在 `C:\Users\45078\Downloads\`，交给用户手动安装 + 开启网络加速（GUI + UAC 无法代操作）。
+6. **落地**：安装包下载到用户系统的「下载」目录（Windows 为 `%USERPROFILE%\Downloads`，macOS 为 `~/Downloads`），交给用户手动安装 + 开启网络加速（GUI + UAC 无法代操作）。
 
 ## 复用要点
 
